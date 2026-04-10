@@ -24,6 +24,7 @@ Each agent node follows the same pattern:
 2. **Call Groq LLM** — reasons over tool output and returns structured JSON
 3. **Update shared state** — LangGraph passes state forward to the next agent
 
+
 ### Agents
 
 | Agent | Responsibility |
@@ -145,5 +146,5 @@ Available free Groq models: `llama3-8b-8192`, `llama3-70b-8192`, `mixtral-8x7b-3
 - `agent_reports` — each agent's individual findings
 - `trace` — timestamped execution log
 
-### `output/trace.json` — lightweight agent execution log
+### `output/trace.json` — agent execution log
 
