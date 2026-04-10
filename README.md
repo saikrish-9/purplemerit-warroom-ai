@@ -2,7 +2,7 @@
 
 A multi-agent system that simulates a cross-functional **war room** during a product launch. Built with **LangGraph** for agent orchestration and **Groq** (free LLM API) for agent reasoning. Analyzes a mock dashboard and produces a structured launch decision: **Proceed / Pause / Roll Back**.
 
-> **Groq is free** — get an API key in 2 minutes at [console.groq.com](https://console.groq.com). No credit card needed.
+> **Groq is free** — get an API key at [console.groq.com](https://console.groq.com).
 
 ---
 
