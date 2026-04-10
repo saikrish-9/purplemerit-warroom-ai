@@ -24,6 +24,14 @@ Each agent node follows the same pattern:
 2. **Call Groq LLM** — reasons over tool output and returns structured JSON
 3. **Update shared state** — LangGraph passes state forward to the next agent
 
+### Demo Video
+
+
+
+https://github.com/user-attachments/assets/4f9321a5-fee3-4192-b31a-883151df9837
+
+
+
 
 ### Agents
 
